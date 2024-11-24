@@ -1,4 +1,4 @@
-# OpenEndedReasoner: OpenEndedReasoner: Self-Improving Open-Ended Reasoning LLMs
+# OpenEndedReasoner: Self-Improving Open-Ended Reasoning LLMs
 
 ### News:
 - [Coming soon]: Full code, models, datasets, more r&d...
